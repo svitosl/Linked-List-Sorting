@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+f:\мои файлы\дела\институты\теория алгоритмов\sorting\consoleapplication3\consoleapplication3\consoleapplication3.cpp(435): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\мои файлы\дела\институты\теория алгоритмов\sorting\consoleapplication3\consoleapplication3\consoleapplication3.cpp(441): warning C4101: Key: неиспользованная локальная переменная
+f:\мои файлы\дела\институты\теория алгоритмов\sorting\consoleapplication3\consoleapplication3\consoleapplication3.cpp(439): warning C4101: t_s: неиспользованная локальная переменная
+f:\мои файлы\дела\институты\теория алгоритмов\sorting\consoleapplication3\consoleapplication3\consoleapplication3.cpp(439): warning C4101: i: неиспользованная локальная переменная
+f:\мои файлы\дела\институты\теория алгоритмов\sorting\consoleapplication3\consoleapplication3\consoleapplication3.cpp(439): warning C4101: t_f: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> F:\Мои файлы\Дела\Институты\Теория алгоритмов\Sorting\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
